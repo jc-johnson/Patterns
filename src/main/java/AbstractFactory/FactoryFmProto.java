@@ -1,4 +1,4 @@
-package main.java;
+package main.java.AbstractFactory;
 
 /**
  * Created by jjohnson on 1/19/2016.
@@ -9,6 +9,8 @@ package main.java;
  * Prototype: creation through delegation
  * Virtual constructor: defer choice of object to create until run-time
  */
+
+// Use abstract classes and super classes to extend functionality
 
 public class FactoryFmProto {
 
